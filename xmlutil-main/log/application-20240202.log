@@ -1,0 +1,568 @@
+2024-02-02 15:38:34.379 [main] INFO  com.sl.pp.AppMain - AppMain.main() :: Execution Started 
+2024-02-02 15:38:34.390 [pool-2-thread-1] INFO  com.sl.pp.service.XmlService - InsertProcess::XmlService Started
+2024-02-02 15:38:35.104 [pool-2-thread-1] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.getXMLFiles() :: total xml files present 187
+2024-02-02 15:38:46.159 [pool-3-thread-3] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder()  :: file VDCCBMAVREQ010120241.xml moved to null
+2024-02-02 15:38:46.162 [pool-3-thread-4] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder()  :: file VDCCBMAVREQ010120242.xml moved to null
+2024-02-02 15:38:46.169 [pool-3-thread-5] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder()  :: file VDCCBMAVREQ011220231.xml moved to null
+2024-02-02 15:38:46.229 [pool-3-thread-2] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder()  :: file SKDCBMAVREQ221220231.xml moved to null
+2024-02-02 15:38:46.236 [pool-3-thread-1] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder()  :: file 094CBMAVREQ0301202422.xml moved to null
+2024-02-02 15:38:46.851 [pool-3-thread-3] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder()  :: file VDCCBMAVREQ011220232.xml moved to null
+2024-02-02 15:38:47.121 [pool-3-thread-4] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder()  :: file VDCCBMAVREQ011220233.xml moved to null
+2024-02-02 15:38:47.145 [pool-3-thread-1] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder()  :: file VDCCBMAVREQ011220236.xml moved to null
+2024-02-02 15:38:47.193 [pool-3-thread-2] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder()  :: file VDCCBMAVREQ011220235.xml moved to null
+2024-02-02 15:38:47.201 [pool-3-thread-5] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder()  :: file VDCCBMAVREQ011220234.xml moved to null
+2024-02-02 15:38:47.767 [pool-3-thread-3] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder()  :: file VDCCBMAVREQ011220237.xml moved to null
+2024-02-02 15:38:48.111 [pool-3-thread-2] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder()  :: file VDCCBMAVREQ020120241.xml moved to null
+2024-02-02 15:38:48.204 [pool-3-thread-1] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder()  :: file VDCCBMAVREQ011220239.xml moved to null
+2024-02-02 15:38:48.263 [pool-3-thread-4] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder()  :: file VDCCBMAVREQ011220238.xml moved to null
+2024-02-02 15:38:48.368 [pool-3-thread-3] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder()  :: file VDCCBMAVREQ020120243.xml moved to null
+2024-02-02 15:38:48.824 [pool-3-thread-2] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder()  :: file VDCCBMAVREQ021220231.xml moved to null
+2024-02-02 15:38:49.072 [pool-3-thread-5] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder()  :: file VDCCBMAVREQ020120242.xml moved to null
+2024-02-02 15:38:49.335 [pool-3-thread-3] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder()  :: file VDCCBMAVREQ021220234.xml moved to null
+2024-02-02 15:38:49.596 [pool-3-thread-4] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder()  :: file VDCCBMAVREQ021220233.xml moved to null
+2024-02-02 15:38:50.019 [pool-3-thread-5] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder()  :: file VDCCBMAVREQ021220236.xml moved to null
+2024-02-02 15:38:50.351 [pool-3-thread-3] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder()  :: file VDCCBMAVREQ030120241.xml moved to null
+2024-02-02 15:38:50.401 [pool-3-thread-1] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder()  :: file VDCCBMAVREQ021220232.xml moved to null
+2024-02-02 15:38:50.602 [pool-3-thread-2] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder()  :: file VDCCBMAVREQ021220235.xml moved to null
+2024-02-02 15:38:50.967 [pool-3-thread-5] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder()  :: file VDCCBMAVREQ030120243.xml moved to null
+2024-02-02 15:38:51.066 [pool-3-thread-3] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder()  :: file VDCCBMAVREQ030120244.xml moved to null
+2024-02-02 15:38:51.333 [pool-3-thread-1] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder()  :: file VDCCBMAVREQ030120245.xml moved to null
+2024-02-02 15:38:51.344 [pool-3-thread-4] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder()  :: file VDCCBMAVREQ030120242.xml moved to null
+2024-02-02 15:38:51.627 [pool-3-thread-2] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder()  :: file VDCCBMAVREQ030120246.xml moved to null
+2024-02-02 15:38:51.939 [pool-3-thread-3] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder()  :: file VDCCBMAVREQ031220231.xml moved to null
+2024-02-02 15:38:51.958 [pool-3-thread-5] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder()  :: file VDCCBMAVREQ030120247.xml moved to null
+2024-02-02 15:38:52.257 [pool-3-thread-4] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder()  :: file VDCCBMAVREQ031220233.xml moved to null
+2024-02-02 15:38:52.457 [pool-3-thread-2] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder()  :: file VDCCBMAVREQ031220234.xml moved to null
+2024-02-02 15:38:52.818 [pool-3-thread-3] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder()  :: file VDCCBMAVREQ040120241.xml moved to null
+2024-02-02 15:38:53.023 [pool-3-thread-4] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder()  :: file VDCCBMAVREQ050120242.xml moved to null
+2024-02-02 15:38:53.206 [pool-3-thread-1] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder()  :: file VDCCBMAVREQ031220232.xml moved to null
+2024-02-02 15:38:53.312 [pool-3-thread-2] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder()  :: file VDCCBMAVREQ050120243.xml moved to null
+2024-02-02 15:38:53.522 [pool-3-thread-3] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder()  :: file VDCCBMAVREQ050120244.xml moved to null
+2024-02-02 15:38:53.742 [pool-3-thread-4] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder()  :: file VDCCBMAVREQ050120245.xml moved to null
+2024-02-02 15:38:53.871 [pool-3-thread-5] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder()  :: file VDCCBMAVREQ050120241.xml moved to null
+2024-02-02 15:38:54.046 [pool-3-thread-1] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder()  :: file VDCCBMAVREQ051220231.xml moved to null
+2024-02-02 15:38:54.299 [pool-3-thread-2] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder()  :: file VDCCBMAVREQ051220232.xml moved to null
+2024-02-02 15:38:54.300 [pool-3-thread-3] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder()  :: file VDCCBMAVREQ051220233.xml moved to null
+2024-02-02 15:38:54.463 [pool-3-thread-5] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder()  :: file VDCCBMAVREQ061220232.xml moved to null
+2024-02-02 15:38:54.568 [pool-3-thread-4] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder()  :: file VDCCBMAVREQ061220231.xml moved to null
+2024-02-02 15:38:54.758 [pool-3-thread-1] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder()  :: file VDCCBMAVREQ061220233.xml moved to null
+2024-02-02 15:38:55.226 [pool-3-thread-3] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder()  :: file VDCCBMAVREQ061220235.xml moved to null
+2024-02-02 15:38:55.648 [pool-3-thread-4] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder()  :: file VDCCBMAVREQ071220231.xml moved to null
+2024-02-02 15:38:56.104 [pool-3-thread-2] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder()  :: file VDCCBMAVREQ061220234.xml moved to null
+2024-02-02 15:38:56.340 [pool-3-thread-4] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder()  :: file VDCCBMAVREQ071220234.xml moved to null
+2024-02-02 15:38:56.496 [pool-3-thread-1] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder()  :: file VDCCBMAVREQ071220232.xml moved to null
+2024-02-02 15:38:56.907 [pool-3-thread-3] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder()  :: file VDCCBMAVREQ071220233.xml moved to null
+2024-02-02 15:38:56.937 [pool-3-thread-2] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder()  :: file VDCCBMAVREQ071220235.xml moved to null
+2024-02-02 15:38:56.950 [pool-3-thread-5] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder()  :: file VDCCBMAVREQ061220236.xml moved to null
+2024-02-02 15:38:57.139 [pool-3-thread-4] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder()  :: file VDCCBMAVREQ071220236.xml moved to null
+2024-02-02 15:39:03.160 [pool-3-thread-1] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder()  :: file VDCCBMAVREQ071220237.xml moved to null
+2024-02-02 15:39:03.383 [pool-3-thread-3] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder()  :: file VDCCBMAVREQ081220231.xml moved to null
+2024-02-02 15:39:03.383 [pool-3-thread-5] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder()  :: file VDCCBMAVREQ091220231.xml moved to null
+2024-02-02 15:39:04.334 [pool-3-thread-4] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder()  :: file VDCCBMAVREQ091220232.xml moved to null
+2024-02-02 15:39:04.336 [pool-3-thread-2] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder()  :: file VDCCBMAVREQ081220232.xml moved to null
+2024-02-02 15:39:05.549 [pool-3-thread-1] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder()  :: file VDCCBMAVREQ101220231.xml moved to null
+2024-02-02 15:39:07.172 [pool-3-thread-2] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder()  :: file VDCCBMAVREQ121220231.xml moved to null
+2024-02-02 15:39:07.185 [pool-3-thread-3] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder()  :: file VDCCBMAVREQ101220232.xml moved to null
+2024-02-02 15:39:07.744 [pool-3-thread-1] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder()  :: file VDCCBMAVREQ121220232.xml moved to null
+2024-02-02 15:39:07.755 [pool-3-thread-4] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder()  :: file VDCCBMAVREQ111220231.xml moved to null
+2024-02-02 15:39:08.608 [pool-3-thread-3] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder()  :: file VDCCBMAVREQ121220234.xml moved to null
+2024-02-02 15:39:08.708 [pool-3-thread-4] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder()  :: file VDCCBMAVREQ131220231.xml moved to null
+2024-02-02 15:39:08.717 [pool-3-thread-1] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder()  :: file VDCCBMAVREQ121220235.xml moved to null
+2024-02-02 15:39:09.156 [pool-3-thread-5] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder()  :: file VDCCBMAVREQ101220233.xml moved to null
+2024-02-02 15:39:09.340 [pool-3-thread-3] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder()  :: file VDCCBMAVREQ131220232.xml moved to null
+2024-02-02 15:39:09.620 [pool-3-thread-2] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder()  :: file VDCCBMAVREQ121220233.xml moved to null
+2024-02-02 15:39:09.625 [pool-3-thread-4] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder()  :: file VDCCBMAVREQ141220231.xml moved to null
+2024-02-02 15:39:10.086 [pool-3-thread-5] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder()  :: file VDCCBMAVREQ151220231.xml moved to null
+2024-02-02 15:39:10.616 [pool-3-thread-1] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder()  :: file VDCCBMAVREQ141220232.xml moved to null
+2024-02-02 15:39:10.626 [pool-3-thread-2] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder()  :: file VDCCBMAVREQ151220233.xml moved to null
+2024-02-02 15:39:10.631 [pool-3-thread-3] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder()  :: file VDCCBMAVREQ151220232.xml moved to null
+2024-02-02 15:39:10.689 [pool-3-thread-4] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder()  :: file VDCCBMAVREQ151220234.xml moved to null
+2024-02-02 15:39:10.959 [pool-3-thread-5] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder()  :: file VDCCBMAVREQ161120232.xml moved to null
+2024-02-02 15:39:11.185 [pool-3-thread-1] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder()  :: file VDCCBMAVREQ161120233.xml moved to null
+2024-02-02 15:39:11.489 [pool-3-thread-3] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder()  :: file VDCCBMAVREQ161120235.xml moved to null
+2024-02-02 15:39:11.692 [pool-3-thread-5] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder()  :: file VDCCBMAVREQ161120237.xml moved to null
+2024-02-02 15:39:12.219 [pool-3-thread-3] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder()  :: file VDCCBMAVREQ161220231.xml moved to null
+2024-02-02 15:39:12.441 [pool-3-thread-5] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder()  :: file VDCCBMAVREQ161220232.xml moved to null
+2024-02-02 15:39:12.502 [pool-3-thread-4] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder()  :: file VDCCBMAVREQ161120236.xml moved to null
+2024-02-02 15:39:12.620 [pool-3-thread-1] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder()  :: file VDCCBMAVREQ161120238.xml moved to null
+2024-02-02 15:39:13.053 [pool-3-thread-3] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder()  :: file VDCCBMAVREQ161220233.xml moved to null
+2024-02-02 15:39:13.231 [pool-3-thread-2] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder()  :: file VDCCBMAVREQ161120234.xml moved to null
+2024-02-02 15:39:13.275 [pool-3-thread-4] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder()  :: file VDCCBMAVREQ161220235.xml moved to null
+2024-02-02 15:39:13.289 [pool-3-thread-5] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder()  :: file VDCCBMAVREQ161220234.xml moved to null
+2024-02-02 15:39:13.522 [pool-3-thread-1] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder()  :: file VDCCBMAVREQ171120231.xml moved to null
+2024-02-02 15:39:13.789 [pool-3-thread-3] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder()  :: file VDCCBMAVREQ171120232.xml moved to null
+2024-02-02 15:39:13.986 [pool-3-thread-5] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder()  :: file VDCCBMAVREQ171220231.xml moved to null
+2024-02-02 15:39:14.018 [pool-3-thread-4] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder()  :: file VDCCBMAVREQ171120234.xml moved to null
+2024-02-02 15:39:14.294 [pool-3-thread-1] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder()  :: file VDCCBMAVREQ171220232.xml moved to null
+2024-02-02 15:39:14.499 [pool-3-thread-3] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder()  :: file VDCCBMAVREQ171220233.xml moved to null
+2024-02-02 15:39:14.699 [pool-3-thread-5] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder()  :: file VDCCBMAVREQ171220234.xml moved to null
+2024-02-02 15:39:14.980 [pool-3-thread-2] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder()  :: file VDCCBMAVREQ171120233.xml moved to null
+2024-02-02 15:39:15.080 [pool-3-thread-4] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder()  :: file VDCCBMAVREQ181120231.xml moved to null
+2024-02-02 15:39:15.448 [pool-3-thread-3] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder()  :: file VDCCBMAVREQ181120233.xml moved to null
+2024-02-02 15:39:15.464 [pool-3-thread-1] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder()  :: file VDCCBMAVREQ181120232.xml moved to null
+2024-02-02 15:39:15.939 [pool-3-thread-5] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder()  :: file VDCCBMAVREQ181120234.xml moved to null
+2024-02-02 15:39:16.381 [pool-3-thread-4] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder()  :: file VDCCBMAVREQ181120236.xml moved to null
+2024-02-02 15:39:16.392 [pool-3-thread-1] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder()  :: file VDCCBMAVREQ191120231.xml moved to null
+2024-02-02 15:39:16.394 [pool-3-thread-3] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder()  :: file VDCCBMAVREQ181220231.xml moved to null
+2024-02-02 15:39:16.640 [pool-3-thread-2] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder()  :: file VDCCBMAVREQ181120235.xml moved to null
+2024-02-02 15:39:16.647 [pool-3-thread-5] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder()  :: file VDCCBMAVREQ191120232.xml moved to null
+2024-02-02 15:39:17.187 [pool-3-thread-1] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder()  :: file VDCCBMAVREQ191120234.xml moved to null
+2024-02-02 15:39:17.513 [pool-3-thread-4] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder()  :: file VDCCBMAVREQ191120233.xml moved to null
+2024-02-02 15:39:17.516 [pool-3-thread-5] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder()  :: file VDCCBMAVREQ191220232.xml moved to null
+2024-02-02 15:39:17.537 [pool-3-thread-2] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder()  :: file VDCCBMAVREQ191220231.xml moved to null
+2024-02-02 15:39:17.982 [pool-3-thread-1] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder()  :: file VDCCBMAVREQ201120231.xml moved to null
+2024-02-02 15:39:18.323 [pool-3-thread-4] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder()  :: file VDCCBMAVREQ201120232.xml moved to null
+2024-02-02 15:39:18.364 [pool-3-thread-2] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder()  :: file VDCCBMAVREQ201220231.xml moved to null
+2024-02-02 15:39:18.534 [pool-3-thread-3] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder()  :: file VDCCBMAVREQ191120235.xml moved to null
+2024-02-02 15:39:18.648 [pool-3-thread-1] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder()  :: file VDCCBMAVREQ201220232.xml moved to null
+2024-02-02 15:39:19.182 [pool-3-thread-4] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder()  :: file VDCCBMAVREQ211120231.xml moved to null
+2024-02-02 15:39:19.475 [pool-3-thread-5] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder()  :: file VDCCBMAVREQ201120233.xml moved to null
+2024-02-02 15:39:19.475 [pool-3-thread-2] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder()  :: file VDCCBMAVREQ211120232.xml moved to null
+2024-02-02 15:39:19.501 [pool-3-thread-3] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder()  :: file VDCCBMAVREQ211120233.xml moved to null
+2024-02-02 15:39:19.519 [pool-3-thread-1] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder()  :: file VDCCBMAVREQ211220231.xml moved to null
+2024-02-02 15:39:20.053 [pool-3-thread-4] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder()  :: file VDCCBMAVREQ221120231.xml moved to null
+2024-02-02 15:39:20.489 [pool-3-thread-2] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder()  :: file VDCCBMAVREQ221120233.xml moved to null
+2024-02-02 15:39:20.493 [pool-3-thread-1] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder()  :: file VDCCBMAVREQ221120235.xml moved to null
+2024-02-02 15:39:20.949 [pool-3-thread-4] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder()  :: file VDCCBMAVREQ221220231.xml moved to null
+2024-02-02 15:39:21.284 [pool-3-thread-1] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder()  :: file VDCCBMAVREQ231120232.xml moved to null
+2024-02-02 15:39:21.285 [pool-3-thread-5] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder()  :: file VDCCBMAVREQ221120232.xml moved to null
+2024-02-02 15:39:21.306 [pool-3-thread-2] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder()  :: file VDCCBMAVREQ231120231.xml moved to null
+2024-02-02 15:39:21.493 [pool-3-thread-3] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder()  :: file VDCCBMAVREQ221120234.xml moved to null
+2024-02-02 15:39:21.636 [pool-3-thread-4] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder()  :: file VDCCBMAVREQ231120233.xml moved to null
+2024-02-02 15:39:22.187 [pool-3-thread-1] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder()  :: file VDCCBMAVREQ231120234.xml moved to null
+2024-02-02 15:39:22.442 [pool-3-thread-3] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder()  :: file VDCCBMAVREQ231220231.xml moved to null
+2024-02-02 15:39:22.453 [pool-3-thread-2] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder()  :: file VDCCBMAVREQ231120236.xml moved to null
+2024-02-02 15:39:22.919 [pool-3-thread-1] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder()  :: file VDCCBMAVREQ241120231.xml moved to null
+2024-02-02 15:39:23.279 [pool-3-thread-2] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder()  :: file VDCCBMAVREQ241120233.xml moved to null
+2024-02-02 15:39:23.287 [pool-3-thread-5] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder()  :: file VDCCBMAVREQ231120235.xml moved to null
+2024-02-02 15:39:23.579 [pool-3-thread-4] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder()  :: file VDCCBMAVREQ231220232.xml moved to null
+2024-02-02 15:39:23.853 [pool-3-thread-1] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder()  :: file VDCCBMAVREQ241120234.xml moved to null
+2024-02-02 15:39:24.118 [pool-3-thread-2] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder()  :: file VDCCBMAVREQ241120235.xml moved to null
+2024-02-02 15:39:24.304 [pool-3-thread-3] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder()  :: file VDCCBMAVREQ241120232.xml moved to null
+2024-02-02 15:39:24.498 [pool-3-thread-4] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder()  :: file VDCCBMAVREQ241120237.xml moved to null
+2024-02-02 15:39:24.894 [pool-3-thread-2] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder()  :: file VDCCBMAVREQ251120231.xml moved to null
+2024-02-02 15:39:25.421 [pool-3-thread-5] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder()  :: file VDCCBMAVREQ241120236.xml moved to null
+2024-02-02 15:39:25.769 [pool-3-thread-2] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder()  :: file VDCCBMAVREQ261120231.xml moved to null
+2024-02-02 15:39:25.804 [pool-3-thread-1] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder()  :: file VDCCBMAVREQ241220231.xml moved to null
+2024-02-02 15:39:25.806 [pool-3-thread-4] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder()  :: file VDCCBMAVREQ251120233.xml moved to null
+2024-02-02 15:39:26.075 [pool-3-thread-5] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder()  :: file VDCCBMAVREQ261120232.xml moved to null
+2024-02-02 15:39:26.488 [pool-3-thread-3] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder()  :: file VDCCBMAVREQ251120232.xml moved to null
+2024-02-02 15:39:26.551 [pool-3-thread-2] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder()  :: file VDCCBMAVREQ261220231.xml moved to null
+2024-02-02 15:39:26.781 [pool-3-thread-4] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder()  :: file VDCCBMAVREQ261220233.xml moved to null
+2024-02-02 15:39:27.165 [pool-3-thread-5] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder()  :: file VDCCBMAVREQ261220234.xml moved to null
+2024-02-02 16:05:16.991 [main] INFO  com.sl.pp.AppMain - AppMain.main() :: Execution Started 
+2024-02-02 16:05:17.030 [pool-2-thread-1] INFO  com.sl.pp.service.XmlService - InsertProcess::XmlService Started
+2024-02-02 16:05:22.377 [pool-2-thread-1] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.getXMLFiles() :: total xml files present 1
+2024-02-02 16:06:33.209 [main] INFO  com.sl.pp.AppMain - AppMain.main() :: Execution Started 
+2024-02-02 16:06:33.242 [pool-2-thread-1] INFO  com.sl.pp.service.XmlService - InsertProcess::XmlService Started
+2024-02-02 16:06:33.255 [pool-2-thread-1] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.getXMLFiles() :: total xml files present 1
+2024-02-02 16:21:15.436 [main] INFO  com.sl.pp.AppMain - AppMain.main() :: Execution Started 
+2024-02-02 16:21:15.467 [pool-2-thread-1] INFO  com.sl.pp.service.XmlService - InsertProcess::XmlService Started
+2024-02-02 16:21:15.503 [pool-2-thread-1] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.getXMLFiles() :: total xml files present 1
+2024-02-02 16:26:21.785 [pool-3-thread-1] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder()  :: file 094CBMAVREQ0301202422.xml moved to null
+2024-02-02 16:27:34.874 [pool-3-thread-1] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder()  :: file 094CBMAVREQ0301202422.xml moved to D:/Data/request/success
+2024-02-02 16:28:25.751 [pool-2-thread-1] INFO  com.sl.pp.service.XmlService - XmlService.insertProcess() :: file executed true
+2024-02-02 16:28:25.751 [pool-2-thread-1] INFO  com.sl.pp.service.XmlService - InsertProcess::XmlService Ended
+2024-02-02 16:28:25.751 [pool-2-thread-1] INFO  com.sl.pp.service.XmlService - UpdateProcess::XmlService Started
+2024-02-02 16:28:25.765 [pool-2-thread-1] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.getXMLFiles() :: total xml files present 1
+2024-02-02 16:28:54.858 [main] INFO  com.sl.pp.AppMain - AppMain.main() :: Execution Started 
+2024-02-02 16:28:54.867 [pool-2-thread-1] INFO  com.sl.pp.service.XmlService - InsertProcess::XmlService Started
+2024-02-02 16:28:54.875 [pool-2-thread-1] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.getXMLFiles() :: total xml files present 1
+2024-02-02 16:28:56.250 [pool-3-thread-1] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder()  :: file 094CBMAVREQ0301202422.xml moved to D:/Data/request/success
+2024-02-02 16:28:56.251 [pool-2-thread-1] INFO  com.sl.pp.service.XmlService - XmlService.insertProcess() :: file executed true
+2024-02-02 16:28:56.252 [pool-2-thread-1] INFO  com.sl.pp.service.XmlService - InsertProcess::XmlService Ended
+2024-02-02 16:28:56.253 [pool-2-thread-1] INFO  com.sl.pp.service.XmlService - UpdateProcess::XmlService Started
+2024-02-02 16:28:56.254 [pool-2-thread-1] INFO  com.sl.pp.service.XmlService - UpdateProcess::XmlService Ended
+2024-02-02 16:30:54.870 [pool-2-thread-1] INFO  com.sl.pp.service.XmlService - InsertProcess::XmlService Started
+2024-02-02 16:30:54.879 [pool-2-thread-1] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.getXMLFiles() :: total xml files present 1
+2024-02-02 16:30:55.562 [pool-4-thread-1] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder()  :: file 094CBMAVREQ0301202422.xml moved to D:/Data/request/success
+2024-02-02 16:30:55.564 [pool-2-thread-1] INFO  com.sl.pp.service.XmlService - XmlService.insertProcess() :: file executed true
+2024-02-02 16:30:55.565 [pool-2-thread-1] INFO  com.sl.pp.service.XmlService - InsertProcess::XmlService Ended
+2024-02-02 16:30:55.565 [pool-2-thread-1] INFO  com.sl.pp.service.XmlService - UpdateProcess::XmlService Started
+2024-02-02 16:30:55.566 [pool-2-thread-1] INFO  com.sl.pp.service.XmlService - UpdateProcess::XmlService Ended
+2024-02-02 16:34:35.459 [main] INFO  com.sl.pp.AppMain - AppMain.main() :: Execution Started 
+2024-02-02 16:34:35.468 [pool-2-thread-1] INFO  com.sl.pp.service.XmlService - InsertProcess::XmlService Started
+2024-02-02 16:34:35.476 [pool-2-thread-1] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.getXMLFiles() :: total xml files present 1
+2024-02-02 16:34:36.807 [pool-3-thread-1] ERROR com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder() IOException :: java.nio.file.NoSuchFileException: D:\Data\request\success\094CBMAVREQ0301202422.xml
+2024-02-02 16:34:36.808 [pool-2-thread-1] INFO  com.sl.pp.service.XmlService - XmlService.insertProcess() :: file executed true
+2024-02-02 16:34:36.809 [pool-2-thread-1] INFO  com.sl.pp.service.XmlService - InsertProcess::XmlService Ended
+2024-02-02 16:34:36.810 [pool-2-thread-1] INFO  com.sl.pp.service.XmlService - UpdateProcess::XmlService Started
+2024-02-02 16:34:36.810 [pool-2-thread-1] INFO  com.sl.pp.service.XmlService - UpdateProcess::XmlService Ended
+2024-02-02 16:35:23.937 [main] INFO  com.sl.pp.AppMain - AppMain.main() :: Execution Started 
+2024-02-02 16:35:24.002 [pool-2-thread-1] INFO  com.sl.pp.service.XmlService - InsertProcess::XmlService Started
+2024-02-02 16:35:24.015 [pool-2-thread-1] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.getXMLFiles() :: total xml files present 1
+2024-02-02 16:35:25.236 [main] INFO  com.sl.pp.AppMain - AppMain.main() :: Execution Started 
+2024-02-02 16:35:25.287 [pool-2-thread-1] INFO  com.sl.pp.service.XmlService - InsertProcess::XmlService Started
+2024-02-02 16:35:25.310 [pool-2-thread-1] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.getXMLFiles() :: total xml files present 1
+2024-02-02 16:36:35.472 [pool-2-thread-1] INFO  com.sl.pp.service.XmlService - InsertProcess::XmlService Started
+2024-02-02 16:36:35.482 [pool-2-thread-1] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.getXMLFiles() :: total xml files present 1
+2024-02-02 16:36:36.160 [pool-4-thread-1] ERROR com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder() IOException :: java.nio.file.NoSuchFileException: D:\Data\request\success\094CBMAVREQ0301202422.xml
+2024-02-02 16:36:36.161 [pool-2-thread-1] INFO  com.sl.pp.service.XmlService - XmlService.insertProcess() :: file executed true
+2024-02-02 16:36:36.161 [pool-2-thread-1] INFO  com.sl.pp.service.XmlService - InsertProcess::XmlService Ended
+2024-02-02 16:36:36.162 [pool-2-thread-1] INFO  com.sl.pp.service.XmlService - UpdateProcess::XmlService Started
+2024-02-02 16:36:36.163 [pool-2-thread-1] INFO  com.sl.pp.service.XmlService - UpdateProcess::XmlService Ended
+2024-02-02 16:38:35.464 [pool-2-thread-1] INFO  com.sl.pp.service.XmlService - InsertProcess::XmlService Started
+2024-02-02 16:38:35.474 [pool-2-thread-1] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.getXMLFiles() :: total xml files present 1
+2024-02-02 16:38:36.334 [pool-5-thread-1] ERROR com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder() IOException :: java.nio.file.NoSuchFileException: D:\Data\request\success\094CBMAVREQ0301202422.xml
+2024-02-02 16:38:36.335 [pool-2-thread-1] INFO  com.sl.pp.service.XmlService - XmlService.insertProcess() :: file executed true
+2024-02-02 16:38:36.335 [pool-2-thread-1] INFO  com.sl.pp.service.XmlService - InsertProcess::XmlService Ended
+2024-02-02 16:38:36.337 [pool-2-thread-1] INFO  com.sl.pp.service.XmlService - UpdateProcess::XmlService Started
+2024-02-02 16:38:36.337 [pool-2-thread-1] INFO  com.sl.pp.service.XmlService - UpdateProcess::XmlService Ended
+2024-02-02 16:40:24.352 [pool-3-thread-1] ERROR com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder() IOException :: java.nio.file.NoSuchFileException: D:\Data\request\success\094CBMAVREQ0301202422.xml
+2024-02-02 16:40:35.463 [pool-2-thread-1] INFO  com.sl.pp.service.XmlService - InsertProcess::XmlService Started
+2024-02-02 16:40:35.471 [pool-2-thread-1] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.getXMLFiles() :: total xml files present 1
+2024-02-02 16:40:36.222 [pool-6-thread-1] ERROR com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder() IOException :: java.nio.file.NoSuchFileException: D:\Data\request\success\094CBMAVREQ0301202422.xml
+2024-02-02 16:40:36.222 [pool-2-thread-1] INFO  com.sl.pp.service.XmlService - XmlService.insertProcess() :: file executed true
+2024-02-02 16:40:36.223 [pool-2-thread-1] INFO  com.sl.pp.service.XmlService - InsertProcess::XmlService Ended
+2024-02-02 16:40:36.223 [pool-2-thread-1] INFO  com.sl.pp.service.XmlService - UpdateProcess::XmlService Started
+2024-02-02 16:40:36.223 [pool-2-thread-1] INFO  com.sl.pp.service.XmlService - UpdateProcess::XmlService Ended
+2024-02-02 16:42:35.464 [pool-2-thread-1] INFO  com.sl.pp.service.XmlService - InsertProcess::XmlService Started
+2024-02-02 16:42:35.476 [pool-2-thread-1] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.getXMLFiles() :: total xml files present 1
+2024-02-02 16:42:39.483 [pool-7-thread-1] ERROR com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder() IOException :: java.nio.file.NoSuchFileException: D:\Data\request\success\094CBMAVREQ0301202422.xml
+2024-02-02 16:42:39.484 [pool-2-thread-1] INFO  com.sl.pp.service.XmlService - XmlService.insertProcess() :: file executed true
+2024-02-02 16:42:39.485 [pool-2-thread-1] INFO  com.sl.pp.service.XmlService - InsertProcess::XmlService Ended
+2024-02-02 16:42:39.485 [pool-2-thread-1] INFO  com.sl.pp.service.XmlService - UpdateProcess::XmlService Started
+2024-02-02 16:42:39.485 [pool-2-thread-1] INFO  com.sl.pp.service.XmlService - UpdateProcess::XmlService Ended
+2024-02-02 17:14:01.668 [main] INFO  com.sl.pp.AppMain - AppMain.main() :: Execution Started 
+2024-02-02 17:14:01.692 [pool-2-thread-1] INFO  com.sl.pp.service.XmlService - InsertProcess::XmlService Started
+2024-02-02 17:14:01.711 [pool-2-thread-1] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.getXMLFiles() :: total xml files present 1
+2024-02-02 17:14:04.419 [pool-2-thread-1] ERROR com.sl.pp.service.XmlService - XmlService.insertProcess()  ::: exception while callable thread call java.util.concurrent.ExecutionException: java.lang.NullPointerException: Cannot invoke "String.isEmpty()" because "str" is null
+2024-02-02 17:14:04.420 [pool-2-thread-1] INFO  com.sl.pp.service.XmlService - InsertProcess::XmlService Ended
+2024-02-02 17:14:04.421 [pool-2-thread-1] INFO  com.sl.pp.service.XmlService - UpdateProcess::XmlService Started
+2024-02-02 17:14:04.423 [pool-2-thread-1] INFO  com.sl.pp.service.XmlService - UpdateProcess::XmlService Ended
+2024-02-02 17:14:11.357 [main] INFO  com.sl.pp.AppMain - AppMain.main() :: Execution Started 
+2024-02-02 17:14:11.397 [pool-2-thread-1] INFO  com.sl.pp.service.XmlService - InsertProcess::XmlService Started
+2024-02-02 17:14:11.412 [pool-2-thread-1] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.getXMLFiles() :: total xml files present 1
+2024-02-02 17:16:01.678 [pool-2-thread-1] INFO  com.sl.pp.service.XmlService - InsertProcess::XmlService Started
+2024-02-02 17:16:01.686 [pool-2-thread-1] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.getXMLFiles() :: total xml files present 1
+2024-02-02 17:16:02.970 [pool-2-thread-1] ERROR com.sl.pp.service.XmlService - XmlService.insertProcess()  ::: exception while callable thread call java.util.concurrent.ExecutionException: java.lang.NullPointerException: Cannot invoke "String.isEmpty()" because "str" is null
+2024-02-02 17:16:02.971 [pool-2-thread-1] INFO  com.sl.pp.service.XmlService - InsertProcess::XmlService Ended
+2024-02-02 17:16:02.972 [pool-2-thread-1] INFO  com.sl.pp.service.XmlService - UpdateProcess::XmlService Started
+2024-02-02 17:16:02.972 [pool-2-thread-1] INFO  com.sl.pp.service.XmlService - UpdateProcess::XmlService Ended
+2024-02-02 18:44:49.321 [main] INFO  com.sl.pp.AppMain - AppMain.main() :: Execution Started 
+2024-02-02 18:44:49.329 [pool-2-thread-1] INFO  com.sl.pp.service.XmlService - InsertProcess::XmlService Started
+2024-02-02 18:44:49.344 [pool-2-thread-1] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.getXMLFiles() :: total xml files present 7
+2024-02-02 18:44:49.683 [pool-3-thread-5] ERROR com.sl.pp.AppMain - DbConfig.getDBConnection() SqlException java.sql.SQLException: The url cannot be null
+2024-02-02 18:44:49.683 [pool-3-thread-3] ERROR com.sl.pp.AppMain - DbConfig.getDBConnection() SqlException java.sql.SQLException: The url cannot be null
+2024-02-02 18:44:49.683 [pool-3-thread-4] ERROR com.sl.pp.AppMain - DbConfig.getDBConnection() SqlException java.sql.SQLException: The url cannot be null
+2024-02-02 18:44:49.683 [pool-3-thread-2] ERROR com.sl.pp.AppMain - DbConfig.getDBConnection() SqlException java.sql.SQLException: The url cannot be null
+2024-02-02 18:44:49.683 [pool-3-thread-1] ERROR com.sl.pp.AppMain - DbConfig.getDBConnection() SqlException java.sql.SQLException: The url cannot be null
+2024-02-02 18:44:49.700 [pool-3-thread-2] ERROR com.sl.pp.AppMain - DbConfig.getDBConnection() SqlException java.sql.SQLException: The url cannot be null
+2024-02-02 18:44:49.700 [pool-3-thread-5] ERROR com.sl.pp.AppMain - DbConfig.getDBConnection() SqlException java.sql.SQLException: The url cannot be null
+2024-02-02 18:44:49.700 [pool-2-thread-1] ERROR com.sl.pp.service.XmlService - XmlService.insertProcess()  ::: exception while callable thread call java.util.concurrent.ExecutionException: java.lang.NullPointerException: Cannot invoke "java.sql.Connection.prepareStatement(String)" because "connection" is null
+2024-02-02 18:44:49.701 [pool-2-thread-1] INFO  com.sl.pp.service.XmlService - InsertProcess::XmlService Ended
+2024-02-02 18:44:49.701 [pool-2-thread-1] INFO  com.sl.pp.service.XmlService - UpdateProcess::XmlService Started
+2024-02-02 18:44:49.716 [pool-2-thread-1] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.getXMLFiles() :: total xml files present 9
+2024-02-02 18:44:49.986 [pool-4-thread-3] ERROR com.sl.pp.AppMain - DbConfig.getDBConnection() SqlException java.sql.SQLRecoverableException: IO Error: Invalid number format for port number
+2024-02-02 18:44:49.987 [pool-4-thread-4] ERROR com.sl.pp.AppMain - DbConfig.getDBConnection() SqlException java.sql.SQLRecoverableException: IO Error: Invalid number format for port number
+2024-02-02 18:44:49.986 [pool-4-thread-5] ERROR com.sl.pp.AppMain - DbConfig.getDBConnection() SqlException java.sql.SQLRecoverableException: IO Error: Invalid number format for port number
+2024-02-02 18:44:49.987 [pool-4-thread-1] ERROR com.sl.pp.AppMain - DbConfig.getDBConnection() SqlException java.sql.SQLRecoverableException: IO Error: Invalid number format for port number
+2024-02-02 18:44:49.986 [pool-4-thread-2] ERROR com.sl.pp.AppMain - DbConfig.getDBConnection() SqlException java.sql.SQLRecoverableException: IO Error: Invalid number format for port number
+2024-02-02 18:44:50.030 [pool-4-thread-3] ERROR com.sl.pp.AppMain - DbConfig.getDBConnection() SqlException java.sql.SQLRecoverableException: IO Error: Invalid number format for port number
+2024-02-02 18:44:50.031 [pool-4-thread-4] ERROR com.sl.pp.AppMain - DbConfig.getDBConnection() SqlException java.sql.SQLRecoverableException: IO Error: Invalid number format for port number
+2024-02-02 18:44:50.043 [pool-4-thread-5] ERROR com.sl.pp.AppMain - DbConfig.getDBConnection() SqlException java.sql.SQLRecoverableException: IO Error: Invalid number format for port number
+2024-02-02 18:44:50.045 [pool-4-thread-1] ERROR com.sl.pp.AppMain - DbConfig.getDBConnection() SqlException java.sql.SQLRecoverableException: IO Error: Invalid number format for port number
+2024-02-02 18:44:50.046 [pool-2-thread-1] ERROR com.sl.pp.service.XmlService - XmlService.updateProcess()  ::: exception while callable thread call java.util.concurrent.ExecutionException: java.lang.NullPointerException: Cannot invoke "java.sql.Connection.prepareStatement(String)" because "connection" is null
+2024-02-02 18:44:50.046 [pool-2-thread-1] INFO  com.sl.pp.service.XmlService - UpdateProcess::XmlService Ended
+2024-02-02 18:46:42.699 [main] INFO  com.sl.pp.AppMain - AppMain.main() :: Execution Started 
+2024-02-02 18:46:42.709 [pool-2-thread-1] INFO  com.sl.pp.service.XmlService - InsertProcess::XmlService Started
+2024-02-02 18:46:42.724 [pool-2-thread-1] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.getXMLFiles() :: total xml files present 7
+2024-02-02 18:46:43.007 [pool-3-thread-3] ERROR com.sl.pp.AppMain - DbConfig.getDBConnection() SqlException java.sql.SQLException: The url cannot be null
+2024-02-02 18:46:43.007 [pool-3-thread-5] ERROR com.sl.pp.AppMain - DbConfig.getDBConnection() SqlException java.sql.SQLException: The url cannot be null
+2024-02-02 18:46:43.007 [pool-3-thread-2] ERROR com.sl.pp.AppMain - DbConfig.getDBConnection() SqlException java.sql.SQLException: The url cannot be null
+2024-02-02 18:46:43.007 [pool-3-thread-1] ERROR com.sl.pp.AppMain - DbConfig.getDBConnection() SqlException java.sql.SQLException: The url cannot be null
+2024-02-02 18:46:43.007 [pool-3-thread-4] ERROR com.sl.pp.AppMain - DbConfig.getDBConnection() SqlException java.sql.SQLException: The url cannot be null
+2024-02-02 18:46:43.021 [pool-3-thread-5] ERROR com.sl.pp.AppMain - DbConfig.getDBConnection() SqlException java.sql.SQLException: The url cannot be null
+2024-02-02 18:46:43.022 [pool-3-thread-1] ERROR com.sl.pp.AppMain - DbConfig.getDBConnection() SqlException java.sql.SQLException: The url cannot be null
+2024-02-02 18:46:43.022 [pool-2-thread-1] ERROR com.sl.pp.service.XmlService - XmlService.insertProcess()  ::: exception while callable thread call java.util.concurrent.ExecutionException: java.lang.NullPointerException: Cannot invoke "java.sql.Connection.prepareStatement(String)" because "connection" is null
+2024-02-02 18:46:43.023 [pool-2-thread-1] INFO  com.sl.pp.service.XmlService - InsertProcess::XmlService Ended
+2024-02-02 18:46:43.023 [pool-2-thread-1] INFO  com.sl.pp.service.XmlService - UpdateProcess::XmlService Started
+2024-02-02 18:46:43.036 [pool-2-thread-1] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.getXMLFiles() :: total xml files present 9
+2024-02-02 18:46:44.047 [pool-4-thread-3] ERROR com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder() IOException :: java.nio.file.NoSuchFileException: D:\Project\ClientProject\riyadi\newfiles\response\VDCCBMAVRES28112023133633118.xml\VDCCBMAVRES28112023133633118.xml
+2024-02-02 18:46:44.205 [pool-4-thread-4] ERROR com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder() IOException :: java.nio.file.NoSuchFileException: D:\Project\ClientProject\riyadi\newfiles\response\VDCCBMAVRES28112023135346724.xml\VDCCBMAVRES28112023135346724.xml
+2024-02-02 18:46:44.249 [pool-4-thread-1] ERROR com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder() IOException :: java.nio.file.NoSuchFileException: D:\Project\ClientProject\riyadi\newfiles\response\VDCCBMAVRES07122023145951010.xml\VDCCBMAVRES07122023145951010.xml
+2024-02-02 18:46:44.297 [pool-4-thread-2] ERROR com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder() IOException :: java.nio.file.NoSuchFileException: D:\Project\ClientProject\riyadi\newfiles\response\VDCCBMAVRES28112023133608736.xml\VDCCBMAVRES28112023133608736.xml
+2024-02-02 18:46:44.685 [pool-4-thread-3] ERROR com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder() IOException :: java.nio.file.NoSuchFileException: D:\Project\ClientProject\riyadi\newfiles\response\VDCCBMAVRES29112023050019214.xml\VDCCBMAVRES29112023050019214.xml
+2024-02-02 18:46:44.817 [pool-4-thread-1] ERROR com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder() IOException :: java.nio.file.NoSuchFileException: D:\Project\ClientProject\riyadi\newfiles\response\VDCCBMAVRES29112023050038279.xml\VDCCBMAVRES29112023050038279.xml
+2024-02-02 18:46:44.951 [pool-4-thread-4] ERROR com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder() IOException :: java.nio.file.NoSuchFileException: D:\Project\ClientProject\riyadi\newfiles\response\VDCCBMAVRES29112023050026010.xml\VDCCBMAVRES29112023050026010.xml
+2024-02-02 18:46:45.045 [pool-4-thread-5] ERROR com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder() IOException :: java.nio.file.NoSuchFileException: D:\Project\ClientProject\riyadi\newfiles\response\VDCCBMAVRES29112023045957975.xml\VDCCBMAVRES29112023045957975.xml
+2024-02-02 18:46:45.159 [pool-4-thread-2] ERROR com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder() IOException :: java.nio.file.NoSuchFileException: D:\Project\ClientProject\riyadi\newfiles\response\VDCCBMAVRES30112023050022257.xml\VDCCBMAVRES30112023050022257.xml
+2024-02-02 18:46:45.159 [pool-2-thread-1] INFO  com.sl.pp.service.XmlService - XmlService.updateProcess() :: file executed true
+2024-02-02 18:46:45.159 [pool-2-thread-1] INFO  com.sl.pp.service.XmlService - XmlService.updateProcess() :: file executed true
+2024-02-02 18:46:45.159 [pool-2-thread-1] INFO  com.sl.pp.service.XmlService - XmlService.updateProcess() :: file executed true
+2024-02-02 18:46:45.160 [pool-2-thread-1] INFO  com.sl.pp.service.XmlService - XmlService.updateProcess() :: file executed true
+2024-02-02 18:46:45.160 [pool-2-thread-1] INFO  com.sl.pp.service.XmlService - XmlService.updateProcess() :: file executed true
+2024-02-02 18:46:45.160 [pool-2-thread-1] INFO  com.sl.pp.service.XmlService - XmlService.updateProcess() :: file executed true
+2024-02-02 18:46:45.160 [pool-2-thread-1] INFO  com.sl.pp.service.XmlService - XmlService.updateProcess() :: file executed true
+2024-02-02 18:46:45.160 [pool-2-thread-1] INFO  com.sl.pp.service.XmlService - XmlService.updateProcess() :: file executed true
+2024-02-02 18:46:45.160 [pool-2-thread-1] INFO  com.sl.pp.service.XmlService - XmlService.updateProcess() :: file executed true
+2024-02-02 18:46:45.161 [pool-2-thread-1] INFO  com.sl.pp.service.XmlService - UpdateProcess::XmlService Ended
+2024-02-02 18:48:36.676 [main] INFO  com.sl.pp.AppMain - AppMain.main() :: Execution Started 
+2024-02-02 18:48:36.694 [pool-2-thread-1] INFO  com.sl.pp.service.XmlService - InsertProcess::XmlService Started
+2024-02-02 18:48:36.707 [pool-2-thread-1] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.getXMLFiles() :: total xml files present 7
+2024-02-02 18:48:37.053 [pool-3-thread-5] ERROR com.sl.pp.AppMain - DbConfig.getDBConnection() SqlException java.sql.SQLException: The url cannot be null
+2024-02-02 18:48:37.053 [pool-3-thread-1] ERROR com.sl.pp.AppMain - DbConfig.getDBConnection() SqlException java.sql.SQLException: The url cannot be null
+2024-02-02 18:48:37.053 [pool-3-thread-2] ERROR com.sl.pp.AppMain - DbConfig.getDBConnection() SqlException java.sql.SQLException: The url cannot be null
+2024-02-02 18:48:37.053 [pool-3-thread-3] ERROR com.sl.pp.AppMain - DbConfig.getDBConnection() SqlException java.sql.SQLException: The url cannot be null
+2024-02-02 18:48:37.053 [pool-3-thread-4] ERROR com.sl.pp.AppMain - DbConfig.getDBConnection() SqlException java.sql.SQLException: The url cannot be null
+2024-02-02 18:48:37.066 [pool-3-thread-5] ERROR com.sl.pp.AppMain - DbConfig.getDBConnection() SqlException java.sql.SQLException: The url cannot be null
+2024-02-02 18:48:37.066 [pool-3-thread-1] ERROR com.sl.pp.AppMain - DbConfig.getDBConnection() SqlException java.sql.SQLException: The url cannot be null
+2024-02-02 18:48:37.067 [pool-2-thread-1] ERROR com.sl.pp.service.XmlService - XmlService.insertProcess()  ::: exception while callable thread call java.util.concurrent.ExecutionException: java.lang.NullPointerException: Cannot invoke "java.sql.Connection.prepareStatement(String)" because "connection" is null
+2024-02-02 18:48:37.067 [pool-2-thread-1] INFO  com.sl.pp.service.XmlService - InsertProcess::XmlService Ended
+2024-02-02 18:48:37.067 [pool-2-thread-1] INFO  com.sl.pp.service.XmlService - UpdateProcess::XmlService Started
+2024-02-02 18:48:37.080 [pool-2-thread-1] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.getXMLFiles() :: total xml files present 9
+2024-02-02 18:48:37.899 [pool-4-thread-1] ERROR com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder() IOException :: java.nio.file.NoSuchFileException: D:\Project\ClientProject\riyadi\newfiles\response\VDCCBMAVRES07122023145951010.xml\VDCCBMAVRES07122023145951010.xml
+2024-02-02 18:48:38.064 [pool-4-thread-4] ERROR com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder() IOException :: java.nio.file.NoSuchFileException: D:\Project\ClientProject\riyadi\newfiles\response\VDCCBMAVRES28112023135346724.xml\VDCCBMAVRES28112023135346724.xml
+2024-02-02 18:48:38.123 [pool-4-thread-3] ERROR com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder() IOException :: java.nio.file.NoSuchFileException: D:\Project\ClientProject\riyadi\newfiles\response\VDCCBMAVRES28112023133633118.xml\VDCCBMAVRES28112023133633118.xml
+2024-02-02 18:48:38.201 [pool-4-thread-2] ERROR com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder() IOException :: java.nio.file.NoSuchFileException: D:\Project\ClientProject\riyadi\newfiles\response\VDCCBMAVRES28112023133608736.xml\VDCCBMAVRES28112023133608736.xml
+2024-02-02 18:48:38.563 [pool-4-thread-1] ERROR com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder() IOException :: java.nio.file.NoSuchFileException: D:\Project\ClientProject\riyadi\newfiles\response\VDCCBMAVRES29112023050019214.xml\VDCCBMAVRES29112023050019214.xml
+2024-02-02 18:48:38.690 [pool-4-thread-3] ERROR com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder() IOException :: java.nio.file.NoSuchFileException: D:\Project\ClientProject\riyadi\newfiles\response\VDCCBMAVRES29112023050038279.xml\VDCCBMAVRES29112023050038279.xml
+2024-02-02 18:48:38.792 [pool-4-thread-4] ERROR com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder() IOException :: java.nio.file.NoSuchFileException: D:\Project\ClientProject\riyadi\newfiles\response\VDCCBMAVRES29112023050026010.xml\VDCCBMAVRES29112023050026010.xml
+2024-02-02 18:48:39.071 [pool-4-thread-2] ERROR com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder() IOException :: java.nio.file.NoSuchFileException: D:\Project\ClientProject\riyadi\newfiles\response\VDCCBMAVRES30112023050022257.xml\VDCCBMAVRES30112023050022257.xml
+2024-02-02 18:48:39.167 [pool-4-thread-5] ERROR com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder() IOException :: java.nio.file.NoSuchFileException: D:\Project\ClientProject\riyadi\newfiles\response\VDCCBMAVRES29112023045957975.xml\VDCCBMAVRES29112023045957975.xml
+2024-02-02 18:48:39.168 [pool-2-thread-1] INFO  com.sl.pp.service.XmlService - XmlService.updateProcess() :: file executed true
+2024-02-02 18:48:39.168 [pool-2-thread-1] INFO  com.sl.pp.service.XmlService - XmlService.updateProcess() :: file executed true
+2024-02-02 18:48:39.168 [pool-2-thread-1] INFO  com.sl.pp.service.XmlService - XmlService.updateProcess() :: file executed true
+2024-02-02 18:48:39.168 [pool-2-thread-1] INFO  com.sl.pp.service.XmlService - XmlService.updateProcess() :: file executed true
+2024-02-02 18:48:39.168 [pool-2-thread-1] INFO  com.sl.pp.service.XmlService - XmlService.updateProcess() :: file executed true
+2024-02-02 18:48:39.169 [pool-2-thread-1] INFO  com.sl.pp.service.XmlService - XmlService.updateProcess() :: file executed true
+2024-02-02 18:48:39.169 [pool-2-thread-1] INFO  com.sl.pp.service.XmlService - XmlService.updateProcess() :: file executed true
+2024-02-02 18:48:39.169 [pool-2-thread-1] INFO  com.sl.pp.service.XmlService - XmlService.updateProcess() :: file executed true
+2024-02-02 18:48:39.169 [pool-2-thread-1] INFO  com.sl.pp.service.XmlService - XmlService.updateProcess() :: file executed true
+2024-02-02 18:48:39.169 [pool-2-thread-1] INFO  com.sl.pp.service.XmlService - UpdateProcess::XmlService Ended
+2024-02-02 18:48:42.712 [pool-2-thread-1] INFO  com.sl.pp.service.XmlService - InsertProcess::XmlService Started
+2024-02-02 18:48:42.728 [pool-2-thread-1] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.getXMLFiles() :: total xml files present 7
+2024-02-02 18:48:42.753 [pool-5-thread-3] ERROR com.sl.pp.AppMain - DbConfig.getDBConnection() SqlException java.sql.SQLException: The url cannot be null
+2024-02-02 18:48:42.754 [pool-5-thread-2] ERROR com.sl.pp.AppMain - DbConfig.getDBConnection() SqlException java.sql.SQLException: The url cannot be null
+2024-02-02 18:48:42.754 [pool-5-thread-1] ERROR com.sl.pp.AppMain - DbConfig.getDBConnection() SqlException java.sql.SQLException: The url cannot be null
+2024-02-02 18:48:42.755 [pool-5-thread-5] ERROR com.sl.pp.AppMain - DbConfig.getDBConnection() SqlException java.sql.SQLException: The url cannot be null
+2024-02-02 18:48:42.755 [pool-5-thread-4] ERROR com.sl.pp.AppMain - DbConfig.getDBConnection() SqlException java.sql.SQLException: The url cannot be null
+2024-02-02 18:48:42.764 [pool-5-thread-2] ERROR com.sl.pp.AppMain - DbConfig.getDBConnection() SqlException java.sql.SQLException: The url cannot be null
+2024-02-02 18:48:42.765 [pool-5-thread-3] ERROR com.sl.pp.AppMain - DbConfig.getDBConnection() SqlException java.sql.SQLException: The url cannot be null
+2024-02-02 18:48:42.765 [pool-2-thread-1] ERROR com.sl.pp.service.XmlService - XmlService.insertProcess()  ::: exception while callable thread call java.util.concurrent.ExecutionException: java.lang.NullPointerException: Cannot invoke "java.sql.Connection.prepareStatement(String)" because "connection" is null
+2024-02-02 18:48:42.765 [pool-2-thread-1] INFO  com.sl.pp.service.XmlService - InsertProcess::XmlService Ended
+2024-02-02 18:48:42.766 [pool-2-thread-1] INFO  com.sl.pp.service.XmlService - UpdateProcess::XmlService Started
+2024-02-02 18:48:42.775 [pool-2-thread-1] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.getXMLFiles() :: total xml files present 9
+2024-02-02 18:48:43.435 [pool-6-thread-1] ERROR com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder() IOException :: java.nio.file.NoSuchFileException: D:\Project\ClientProject\riyadi\newfiles\response\VDCCBMAVRES07122023145951010.xml\VDCCBMAVRES07122023145951010.xml
+2024-02-02 18:48:43.483 [pool-6-thread-3] ERROR com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder() IOException :: java.nio.file.NoSuchFileException: D:\Project\ClientProject\riyadi\newfiles\response\VDCCBMAVRES28112023133633118.xml\VDCCBMAVRES28112023133633118.xml
+2024-02-02 18:48:43.565 [pool-6-thread-4] ERROR com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder() IOException :: java.nio.file.NoSuchFileException: D:\Project\ClientProject\riyadi\newfiles\response\VDCCBMAVRES28112023135346724.xml\VDCCBMAVRES28112023135346724.xml
+2024-02-02 18:48:43.759 [pool-6-thread-2] ERROR com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder() IOException :: java.nio.file.NoSuchFileException: D:\Project\ClientProject\riyadi\newfiles\response\VDCCBMAVRES28112023133608736.xml\VDCCBMAVRES28112023133608736.xml
+2024-02-02 18:48:44.054 [pool-6-thread-1] ERROR com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder() IOException :: java.nio.file.NoSuchFileException: D:\Project\ClientProject\riyadi\newfiles\response\VDCCBMAVRES29112023050019214.xml\VDCCBMAVRES29112023050019214.xml
+2024-02-02 18:48:44.105 [pool-6-thread-4] ERROR com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder() IOException :: java.nio.file.NoSuchFileException: D:\Project\ClientProject\riyadi\newfiles\response\VDCCBMAVRES29112023050038279.xml\VDCCBMAVRES29112023050038279.xml
+2024-02-02 18:48:44.259 [pool-6-thread-3] ERROR com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder() IOException :: java.nio.file.NoSuchFileException: D:\Project\ClientProject\riyadi\newfiles\response\VDCCBMAVRES29112023050026010.xml\VDCCBMAVRES29112023050026010.xml
+2024-02-02 18:48:44.558 [pool-6-thread-2] ERROR com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder() IOException :: java.nio.file.NoSuchFileException: D:\Project\ClientProject\riyadi\newfiles\response\VDCCBMAVRES30112023050022257.xml\VDCCBMAVRES30112023050022257.xml
+2024-02-02 18:48:44.632 [pool-6-thread-5] ERROR com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder() IOException :: java.nio.file.NoSuchFileException: D:\Project\ClientProject\riyadi\newfiles\response\VDCCBMAVRES29112023045957975.xml\VDCCBMAVRES29112023045957975.xml
+2024-02-02 18:48:44.633 [pool-2-thread-1] INFO  com.sl.pp.service.XmlService - XmlService.updateProcess() :: file executed true
+2024-02-02 18:48:44.633 [pool-2-thread-1] INFO  com.sl.pp.service.XmlService - XmlService.updateProcess() :: file executed true
+2024-02-02 18:48:44.633 [pool-2-thread-1] INFO  com.sl.pp.service.XmlService - XmlService.updateProcess() :: file executed true
+2024-02-02 18:48:44.634 [pool-2-thread-1] INFO  com.sl.pp.service.XmlService - XmlService.updateProcess() :: file executed true
+2024-02-02 18:48:44.634 [pool-2-thread-1] INFO  com.sl.pp.service.XmlService - XmlService.updateProcess() :: file executed true
+2024-02-02 18:48:44.634 [pool-2-thread-1] INFO  com.sl.pp.service.XmlService - XmlService.updateProcess() :: file executed true
+2024-02-02 18:48:44.634 [pool-2-thread-1] INFO  com.sl.pp.service.XmlService - XmlService.updateProcess() :: file executed true
+2024-02-02 18:48:44.634 [pool-2-thread-1] INFO  com.sl.pp.service.XmlService - XmlService.updateProcess() :: file executed true
+2024-02-02 18:48:44.634 [pool-2-thread-1] INFO  com.sl.pp.service.XmlService - XmlService.updateProcess() :: file executed true
+2024-02-02 18:48:44.634 [pool-2-thread-1] INFO  com.sl.pp.service.XmlService - UpdateProcess::XmlService Ended
+2024-02-02 18:50:36.681 [pool-2-thread-1] INFO  com.sl.pp.service.XmlService - InsertProcess::XmlService Started
+2024-02-02 18:50:36.705 [pool-2-thread-1] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.getXMLFiles() :: total xml files present 7
+2024-02-02 18:50:36.759 [pool-5-thread-4] ERROR com.sl.pp.AppMain - DbConfig.getDBConnection() SqlException java.sql.SQLException: The url cannot be null
+2024-02-02 18:50:36.760 [pool-5-thread-3] ERROR com.sl.pp.AppMain - DbConfig.getDBConnection() SqlException java.sql.SQLException: The url cannot be null
+2024-02-02 18:50:36.761 [pool-5-thread-1] ERROR com.sl.pp.AppMain - DbConfig.getDBConnection() SqlException java.sql.SQLException: The url cannot be null
+2024-02-02 18:50:36.761 [pool-5-thread-5] ERROR com.sl.pp.AppMain - DbConfig.getDBConnection() SqlException java.sql.SQLException: The url cannot be null
+2024-02-02 18:50:36.761 [pool-5-thread-2] ERROR com.sl.pp.AppMain - DbConfig.getDBConnection() SqlException java.sql.SQLException: The url cannot be null
+2024-02-02 18:50:36.780 [pool-5-thread-3] ERROR com.sl.pp.AppMain - DbConfig.getDBConnection() SqlException java.sql.SQLException: The url cannot be null
+2024-02-02 18:50:36.780 [pool-5-thread-4] ERROR com.sl.pp.AppMain - DbConfig.getDBConnection() SqlException java.sql.SQLException: The url cannot be null
+2024-02-02 18:50:36.781 [pool-2-thread-1] ERROR com.sl.pp.service.XmlService - XmlService.insertProcess()  ::: exception while callable thread call java.util.concurrent.ExecutionException: java.lang.NullPointerException: Cannot invoke "java.sql.Connection.prepareStatement(String)" because "connection" is null
+2024-02-02 18:50:36.781 [pool-2-thread-1] INFO  com.sl.pp.service.XmlService - InsertProcess::XmlService Ended
+2024-02-02 18:50:36.781 [pool-2-thread-1] INFO  com.sl.pp.service.XmlService - UpdateProcess::XmlService Started
+2024-02-02 18:50:36.814 [pool-2-thread-1] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.getXMLFiles() :: total xml files present 9
+2024-02-02 18:50:37.517 [pool-6-thread-1] ERROR com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder() IOException :: java.nio.file.NoSuchFileException: D:\Project\ClientProject\riyadi\newfiles\response\VDCCBMAVRES07122023145951010.xml\VDCCBMAVRES07122023145951010.xml
+2024-02-02 18:50:37.593 [pool-6-thread-3] ERROR com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder() IOException :: java.nio.file.NoSuchFileException: D:\Project\ClientProject\riyadi\newfiles\response\VDCCBMAVRES28112023133633118.xml\VDCCBMAVRES28112023133633118.xml
+2024-02-02 18:50:37.691 [pool-6-thread-4] ERROR com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder() IOException :: java.nio.file.NoSuchFileException: D:\Project\ClientProject\riyadi\newfiles\response\VDCCBMAVRES28112023135346724.xml\VDCCBMAVRES28112023135346724.xml
+2024-02-02 18:50:37.903 [pool-6-thread-2] ERROR com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder() IOException :: java.nio.file.NoSuchFileException: D:\Project\ClientProject\riyadi\newfiles\response\VDCCBMAVRES28112023133608736.xml\VDCCBMAVRES28112023133608736.xml
+2024-02-02 18:50:38.202 [pool-6-thread-1] ERROR com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder() IOException :: java.nio.file.NoSuchFileException: D:\Project\ClientProject\riyadi\newfiles\response\VDCCBMAVRES29112023050019214.xml\VDCCBMAVRES29112023050019214.xml
+2024-02-02 18:50:38.251 [pool-6-thread-4] ERROR com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder() IOException :: java.nio.file.NoSuchFileException: D:\Project\ClientProject\riyadi\newfiles\response\VDCCBMAVRES29112023050038279.xml\VDCCBMAVRES29112023050038279.xml
+2024-02-02 18:50:38.409 [pool-6-thread-3] ERROR com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder() IOException :: java.nio.file.NoSuchFileException: D:\Project\ClientProject\riyadi\newfiles\response\VDCCBMAVRES29112023050026010.xml\VDCCBMAVRES29112023050026010.xml
+2024-02-02 18:50:38.636 [pool-6-thread-2] ERROR com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder() IOException :: java.nio.file.NoSuchFileException: D:\Project\ClientProject\riyadi\newfiles\response\VDCCBMAVRES30112023050022257.xml\VDCCBMAVRES30112023050022257.xml
+2024-02-02 18:50:38.738 [pool-6-thread-5] ERROR com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder() IOException :: java.nio.file.NoSuchFileException: D:\Project\ClientProject\riyadi\newfiles\response\VDCCBMAVRES29112023045957975.xml\VDCCBMAVRES29112023045957975.xml
+2024-02-02 18:50:38.738 [pool-2-thread-1] INFO  com.sl.pp.service.XmlService - XmlService.updateProcess() :: file executed true
+2024-02-02 18:50:38.738 [pool-2-thread-1] INFO  com.sl.pp.service.XmlService - XmlService.updateProcess() :: file executed true
+2024-02-02 18:50:38.738 [pool-2-thread-1] INFO  com.sl.pp.service.XmlService - XmlService.updateProcess() :: file executed true
+2024-02-02 18:50:38.739 [pool-2-thread-1] INFO  com.sl.pp.service.XmlService - XmlService.updateProcess() :: file executed true
+2024-02-02 18:50:38.739 [pool-2-thread-1] INFO  com.sl.pp.service.XmlService - XmlService.updateProcess() :: file executed true
+2024-02-02 18:50:38.739 [pool-2-thread-1] INFO  com.sl.pp.service.XmlService - XmlService.updateProcess() :: file executed true
+2024-02-02 18:50:38.739 [pool-2-thread-1] INFO  com.sl.pp.service.XmlService - XmlService.updateProcess() :: file executed true
+2024-02-02 18:50:38.739 [pool-2-thread-1] INFO  com.sl.pp.service.XmlService - XmlService.updateProcess() :: file executed true
+2024-02-02 18:50:38.739 [pool-2-thread-1] INFO  com.sl.pp.service.XmlService - XmlService.updateProcess() :: file executed true
+2024-02-02 18:50:38.739 [pool-2-thread-1] INFO  com.sl.pp.service.XmlService - UpdateProcess::XmlService Ended
+2024-02-02 18:50:42.702 [pool-2-thread-1] INFO  com.sl.pp.service.XmlService - InsertProcess::XmlService Started
+2024-02-02 18:50:42.721 [pool-2-thread-1] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.getXMLFiles() :: total xml files present 7
+2024-02-02 18:50:42.772 [pool-7-thread-2] ERROR com.sl.pp.AppMain - DbConfig.getDBConnection() SqlException java.sql.SQLException: The url cannot be null
+2024-02-02 18:50:42.772 [pool-7-thread-3] ERROR com.sl.pp.AppMain - DbConfig.getDBConnection() SqlException java.sql.SQLException: The url cannot be null
+2024-02-02 18:50:42.773 [pool-7-thread-1] ERROR com.sl.pp.AppMain - DbConfig.getDBConnection() SqlException java.sql.SQLException: The url cannot be null
+2024-02-02 18:50:42.773 [pool-7-thread-5] ERROR com.sl.pp.AppMain - DbConfig.getDBConnection() SqlException java.sql.SQLException: The url cannot be null
+2024-02-02 18:50:42.773 [pool-7-thread-4] ERROR com.sl.pp.AppMain - DbConfig.getDBConnection() SqlException java.sql.SQLException: The url cannot be null
+2024-02-02 18:50:42.790 [pool-7-thread-2] ERROR com.sl.pp.AppMain - DbConfig.getDBConnection() SqlException java.sql.SQLException: The url cannot be null
+2024-02-02 18:50:42.792 [pool-7-thread-3] ERROR com.sl.pp.AppMain - DbConfig.getDBConnection() SqlException java.sql.SQLException: The url cannot be null
+2024-02-02 18:50:42.792 [pool-2-thread-1] ERROR com.sl.pp.service.XmlService - XmlService.insertProcess()  ::: exception while callable thread call java.util.concurrent.ExecutionException: java.lang.NullPointerException: Cannot invoke "java.sql.Connection.prepareStatement(String)" because "connection" is null
+2024-02-02 18:50:42.793 [pool-2-thread-1] INFO  com.sl.pp.service.XmlService - InsertProcess::XmlService Ended
+2024-02-02 18:50:42.793 [pool-2-thread-1] INFO  com.sl.pp.service.XmlService - UpdateProcess::XmlService Started
+2024-02-02 18:50:42.817 [pool-2-thread-1] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.getXMLFiles() :: total xml files present 9
+2024-02-02 18:50:43.592 [pool-8-thread-4] ERROR com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder() IOException :: java.nio.file.NoSuchFileException: D:\Project\ClientProject\riyadi\newfiles\response\VDCCBMAVRES28112023135346724.xml\VDCCBMAVRES28112023135346724.xml
+2024-02-02 18:50:43.615 [pool-8-thread-1] ERROR com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder() IOException :: java.nio.file.NoSuchFileException: D:\Project\ClientProject\riyadi\newfiles\response\VDCCBMAVRES07122023145951010.xml\VDCCBMAVRES07122023145951010.xml
+2024-02-02 18:50:43.749 [pool-8-thread-3] ERROR com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder() IOException :: java.nio.file.NoSuchFileException: D:\Project\ClientProject\riyadi\newfiles\response\VDCCBMAVRES28112023133633118.xml\VDCCBMAVRES28112023133633118.xml
+2024-02-02 18:50:43.848 [pool-8-thread-2] ERROR com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder() IOException :: java.nio.file.NoSuchFileException: D:\Project\ClientProject\riyadi\newfiles\response\VDCCBMAVRES28112023133608736.xml\VDCCBMAVRES28112023133608736.xml
+2024-02-02 18:50:44.231 [pool-8-thread-4] ERROR com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder() IOException :: java.nio.file.NoSuchFileException: D:\Project\ClientProject\riyadi\newfiles\response\VDCCBMAVRES29112023050019214.xml\VDCCBMAVRES29112023050019214.xml
+2024-02-02 18:50:44.320 [pool-8-thread-3] ERROR com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder() IOException :: java.nio.file.NoSuchFileException: D:\Project\ClientProject\riyadi\newfiles\response\VDCCBMAVRES29112023050038279.xml\VDCCBMAVRES29112023050038279.xml
+2024-02-02 18:50:44.377 [pool-8-thread-1] ERROR com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder() IOException :: java.nio.file.NoSuchFileException: D:\Project\ClientProject\riyadi\newfiles\response\VDCCBMAVRES29112023050026010.xml\VDCCBMAVRES29112023050026010.xml
+2024-02-02 18:50:44.650 [pool-8-thread-2] ERROR com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder() IOException :: java.nio.file.NoSuchFileException: D:\Project\ClientProject\riyadi\newfiles\response\VDCCBMAVRES30112023050022257.xml\VDCCBMAVRES30112023050022257.xml
+2024-02-02 18:50:44.714 [pool-8-thread-5] ERROR com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder() IOException :: java.nio.file.NoSuchFileException: D:\Project\ClientProject\riyadi\newfiles\response\VDCCBMAVRES29112023045957975.xml\VDCCBMAVRES29112023045957975.xml
+2024-02-02 18:50:44.715 [pool-2-thread-1] INFO  com.sl.pp.service.XmlService - XmlService.updateProcess() :: file executed true
+2024-02-02 18:50:44.715 [pool-2-thread-1] INFO  com.sl.pp.service.XmlService - XmlService.updateProcess() :: file executed true
+2024-02-02 18:50:44.715 [pool-2-thread-1] INFO  com.sl.pp.service.XmlService - XmlService.updateProcess() :: file executed true
+2024-02-02 18:50:44.715 [pool-2-thread-1] INFO  com.sl.pp.service.XmlService - XmlService.updateProcess() :: file executed true
+2024-02-02 18:50:44.716 [pool-2-thread-1] INFO  com.sl.pp.service.XmlService - XmlService.updateProcess() :: file executed true
+2024-02-02 18:50:44.716 [pool-2-thread-1] INFO  com.sl.pp.service.XmlService - XmlService.updateProcess() :: file executed true
+2024-02-02 18:50:44.716 [pool-2-thread-1] INFO  com.sl.pp.service.XmlService - XmlService.updateProcess() :: file executed true
+2024-02-02 18:50:44.716 [pool-2-thread-1] INFO  com.sl.pp.service.XmlService - XmlService.updateProcess() :: file executed true
+2024-02-02 18:50:44.716 [pool-2-thread-1] INFO  com.sl.pp.service.XmlService - XmlService.updateProcess() :: file executed true
+2024-02-02 18:50:44.717 [pool-2-thread-1] INFO  com.sl.pp.service.XmlService - UpdateProcess::XmlService Ended
+2024-02-02 18:52:36.692 [pool-2-thread-1] INFO  com.sl.pp.service.XmlService - InsertProcess::XmlService Started
+2024-02-02 18:52:36.700 [pool-2-thread-1] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.getXMLFiles() :: total xml files present 7
+2024-02-02 18:52:36.721 [pool-7-thread-4] ERROR com.sl.pp.AppMain - DbConfig.getDBConnection() SqlException java.sql.SQLException: The url cannot be null
+2024-02-02 18:52:36.721 [pool-7-thread-5] ERROR com.sl.pp.AppMain - DbConfig.getDBConnection() SqlException java.sql.SQLException: The url cannot be null
+2024-02-02 18:52:36.721 [pool-7-thread-1] ERROR com.sl.pp.AppMain - DbConfig.getDBConnection() SqlException java.sql.SQLException: The url cannot be null
+2024-02-02 18:52:36.721 [pool-7-thread-3] ERROR com.sl.pp.AppMain - DbConfig.getDBConnection() SqlException java.sql.SQLException: The url cannot be null
+2024-02-02 18:52:36.722 [pool-7-thread-2] ERROR com.sl.pp.AppMain - DbConfig.getDBConnection() SqlException java.sql.SQLException: The url cannot be null
+2024-02-02 18:52:36.732 [pool-7-thread-5] ERROR com.sl.pp.AppMain - DbConfig.getDBConnection() SqlException java.sql.SQLException: The url cannot be null
+2024-02-02 18:52:36.733 [pool-7-thread-4] ERROR com.sl.pp.AppMain - DbConfig.getDBConnection() SqlException java.sql.SQLException: The url cannot be null
+2024-02-02 18:52:36.733 [pool-2-thread-1] ERROR com.sl.pp.service.XmlService - XmlService.insertProcess()  ::: exception while callable thread call java.util.concurrent.ExecutionException: java.lang.NullPointerException: Cannot invoke "java.sql.Connection.prepareStatement(String)" because "connection" is null
+2024-02-02 18:52:36.733 [pool-2-thread-1] INFO  com.sl.pp.service.XmlService - InsertProcess::XmlService Ended
+2024-02-02 18:52:36.734 [pool-2-thread-1] INFO  com.sl.pp.service.XmlService - UpdateProcess::XmlService Started
+2024-02-02 18:52:36.749 [pool-2-thread-1] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.getXMLFiles() :: total xml files present 9
+2024-02-02 18:52:37.477 [pool-8-thread-3] ERROR com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder() IOException :: java.nio.file.NoSuchFileException: D:\Project\ClientProject\riyadi\newfiles\response\VDCCBMAVRES28112023133633118.xml\VDCCBMAVRES28112023133633118.xml
+2024-02-02 18:52:37.555 [pool-8-thread-1] ERROR com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder() IOException :: java.nio.file.NoSuchFileException: D:\Project\ClientProject\riyadi\newfiles\response\VDCCBMAVRES07122023145951010.xml\VDCCBMAVRES07122023145951010.xml
+2024-02-02 18:52:37.652 [pool-8-thread-2] ERROR com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder() IOException :: java.nio.file.NoSuchFileException: D:\Project\ClientProject\riyadi\newfiles\response\VDCCBMAVRES28112023133608736.xml\VDCCBMAVRES28112023133608736.xml
+2024-02-02 18:52:37.755 [pool-8-thread-4] ERROR com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder() IOException :: java.nio.file.NoSuchFileException: D:\Project\ClientProject\riyadi\newfiles\response\VDCCBMAVRES28112023135346724.xml\VDCCBMAVRES28112023135346724.xml
+2024-02-02 18:52:38.113 [pool-8-thread-3] ERROR com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder() IOException :: java.nio.file.NoSuchFileException: D:\Project\ClientProject\riyadi\newfiles\response\VDCCBMAVRES29112023050019214.xml\VDCCBMAVRES29112023050019214.xml
+2024-02-02 18:52:38.179 [pool-8-thread-2] ERROR com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder() IOException :: java.nio.file.NoSuchFileException: D:\Project\ClientProject\riyadi\newfiles\response\VDCCBMAVRES29112023050038279.xml\VDCCBMAVRES29112023050038279.xml
+2024-02-02 18:52:38.360 [pool-8-thread-1] ERROR com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder() IOException :: java.nio.file.NoSuchFileException: D:\Project\ClientProject\riyadi\newfiles\response\VDCCBMAVRES29112023050026010.xml\VDCCBMAVRES29112023050026010.xml
+2024-02-02 18:52:38.613 [pool-8-thread-4] ERROR com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder() IOException :: java.nio.file.NoSuchFileException: D:\Project\ClientProject\riyadi\newfiles\response\VDCCBMAVRES30112023050022257.xml\VDCCBMAVRES30112023050022257.xml
+2024-02-02 18:52:38.665 [pool-8-thread-5] ERROR com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder() IOException :: java.nio.file.NoSuchFileException: D:\Project\ClientProject\riyadi\newfiles\response\VDCCBMAVRES29112023045957975.xml\VDCCBMAVRES29112023045957975.xml
+2024-02-02 18:52:38.665 [pool-2-thread-1] INFO  com.sl.pp.service.XmlService - XmlService.updateProcess() :: file executed true
+2024-02-02 18:52:38.665 [pool-2-thread-1] INFO  com.sl.pp.service.XmlService - XmlService.updateProcess() :: file executed true
+2024-02-02 18:52:38.665 [pool-2-thread-1] INFO  com.sl.pp.service.XmlService - XmlService.updateProcess() :: file executed true
+2024-02-02 18:52:38.665 [pool-2-thread-1] INFO  com.sl.pp.service.XmlService - XmlService.updateProcess() :: file executed true
+2024-02-02 18:52:38.665 [pool-2-thread-1] INFO  com.sl.pp.service.XmlService - XmlService.updateProcess() :: file executed true
+2024-02-02 18:52:38.666 [pool-2-thread-1] INFO  com.sl.pp.service.XmlService - XmlService.updateProcess() :: file executed true
+2024-02-02 18:52:38.666 [pool-2-thread-1] INFO  com.sl.pp.service.XmlService - XmlService.updateProcess() :: file executed true
+2024-02-02 18:52:38.666 [pool-2-thread-1] INFO  com.sl.pp.service.XmlService - XmlService.updateProcess() :: file executed true
+2024-02-02 18:52:38.666 [pool-2-thread-1] INFO  com.sl.pp.service.XmlService - XmlService.updateProcess() :: file executed true
+2024-02-02 18:52:38.667 [pool-2-thread-1] INFO  com.sl.pp.service.XmlService - UpdateProcess::XmlService Ended
+2024-02-02 18:52:42.713 [pool-2-thread-1] INFO  com.sl.pp.service.XmlService - InsertProcess::XmlService Started
+2024-02-02 18:52:42.731 [pool-2-thread-1] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.getXMLFiles() :: total xml files present 7
+2024-02-02 18:52:42.777 [pool-9-thread-3] ERROR com.sl.pp.AppMain - DbConfig.getDBConnection() SqlException java.sql.SQLException: The url cannot be null
+2024-02-02 18:52:42.777 [pool-9-thread-4] ERROR com.sl.pp.AppMain - DbConfig.getDBConnection() SqlException java.sql.SQLException: The url cannot be null
+2024-02-02 18:52:42.777 [pool-9-thread-5] ERROR com.sl.pp.AppMain - DbConfig.getDBConnection() SqlException java.sql.SQLException: The url cannot be null
+2024-02-02 18:52:42.777 [pool-9-thread-1] ERROR com.sl.pp.AppMain - DbConfig.getDBConnection() SqlException java.sql.SQLException: The url cannot be null
+2024-02-02 18:52:42.777 [pool-9-thread-2] ERROR com.sl.pp.AppMain - DbConfig.getDBConnection() SqlException java.sql.SQLException: The url cannot be null
+2024-02-02 18:52:42.786 [pool-9-thread-4] ERROR com.sl.pp.AppMain - DbConfig.getDBConnection() SqlException java.sql.SQLException: The url cannot be null
+2024-02-02 18:52:42.786 [pool-9-thread-3] ERROR com.sl.pp.AppMain - DbConfig.getDBConnection() SqlException java.sql.SQLException: The url cannot be null
+2024-02-02 18:52:42.786 [pool-2-thread-1] ERROR com.sl.pp.service.XmlService - XmlService.insertProcess()  ::: exception while callable thread call java.util.concurrent.ExecutionException: java.lang.NullPointerException: Cannot invoke "java.sql.Connection.prepareStatement(String)" because "connection" is null
+2024-02-02 18:52:42.787 [pool-2-thread-1] INFO  com.sl.pp.service.XmlService - InsertProcess::XmlService Ended
+2024-02-02 18:52:42.787 [pool-2-thread-1] INFO  com.sl.pp.service.XmlService - UpdateProcess::XmlService Started
+2024-02-02 18:52:42.802 [pool-2-thread-1] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.getXMLFiles() :: total xml files present 9
+2024-02-02 18:52:43.383 [pool-10-thread-1] ERROR com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder() IOException :: java.nio.file.NoSuchFileException: D:\Project\ClientProject\riyadi\newfiles\response\VDCCBMAVRES07122023145951010.xml\VDCCBMAVRES07122023145951010.xml
+2024-02-02 18:52:43.436 [pool-10-thread-3] ERROR com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder() IOException :: java.nio.file.NoSuchFileException: D:\Project\ClientProject\riyadi\newfiles\response\VDCCBMAVRES28112023133633118.xml\VDCCBMAVRES28112023133633118.xml
+2024-02-02 18:52:43.530 [pool-10-thread-4] ERROR com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder() IOException :: java.nio.file.NoSuchFileException: D:\Project\ClientProject\riyadi\newfiles\response\VDCCBMAVRES28112023135346724.xml\VDCCBMAVRES28112023135346724.xml
+2024-02-02 18:52:43.719 [pool-10-thread-2] ERROR com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder() IOException :: java.nio.file.NoSuchFileException: D:\Project\ClientProject\riyadi\newfiles\response\VDCCBMAVRES28112023133608736.xml\VDCCBMAVRES28112023133608736.xml
+2024-02-02 18:52:44.022 [pool-10-thread-1] ERROR com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder() IOException :: java.nio.file.NoSuchFileException: D:\Project\ClientProject\riyadi\newfiles\response\VDCCBMAVRES29112023050019214.xml\VDCCBMAVRES29112023050019214.xml
+2024-02-02 18:52:44.078 [pool-10-thread-4] ERROR com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder() IOException :: java.nio.file.NoSuchFileException: D:\Project\ClientProject\riyadi\newfiles\response\VDCCBMAVRES29112023050038279.xml\VDCCBMAVRES29112023050038279.xml
+2024-02-02 18:52:44.222 [pool-10-thread-3] ERROR com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder() IOException :: java.nio.file.NoSuchFileException: D:\Project\ClientProject\riyadi\newfiles\response\VDCCBMAVRES29112023050026010.xml\VDCCBMAVRES29112023050026010.xml
+2024-02-02 18:52:44.457 [pool-10-thread-2] ERROR com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder() IOException :: java.nio.file.NoSuchFileException: D:\Project\ClientProject\riyadi\newfiles\response\VDCCBMAVRES30112023050022257.xml\VDCCBMAVRES30112023050022257.xml
+2024-02-02 18:52:44.476 [pool-10-thread-5] ERROR com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder() IOException :: java.nio.file.NoSuchFileException: D:\Project\ClientProject\riyadi\newfiles\response\VDCCBMAVRES29112023045957975.xml\VDCCBMAVRES29112023045957975.xml
+2024-02-02 18:52:44.477 [pool-2-thread-1] INFO  com.sl.pp.service.XmlService - XmlService.updateProcess() :: file executed true
+2024-02-02 18:52:44.477 [pool-2-thread-1] INFO  com.sl.pp.service.XmlService - XmlService.updateProcess() :: file executed true
+2024-02-02 18:52:44.477 [pool-2-thread-1] INFO  com.sl.pp.service.XmlService - XmlService.updateProcess() :: file executed true
+2024-02-02 18:52:44.477 [pool-2-thread-1] INFO  com.sl.pp.service.XmlService - XmlService.updateProcess() :: file executed true
+2024-02-02 18:52:44.477 [pool-2-thread-1] INFO  com.sl.pp.service.XmlService - XmlService.updateProcess() :: file executed true
+2024-02-02 18:52:44.477 [pool-2-thread-1] INFO  com.sl.pp.service.XmlService - XmlService.updateProcess() :: file executed true
+2024-02-02 18:52:44.477 [pool-2-thread-1] INFO  com.sl.pp.service.XmlService - XmlService.updateProcess() :: file executed true
+2024-02-02 18:52:44.478 [pool-2-thread-1] INFO  com.sl.pp.service.XmlService - XmlService.updateProcess() :: file executed true
+2024-02-02 18:52:44.478 [pool-2-thread-1] INFO  com.sl.pp.service.XmlService - XmlService.updateProcess() :: file executed true
+2024-02-02 18:52:44.478 [pool-2-thread-1] INFO  com.sl.pp.service.XmlService - UpdateProcess::XmlService Ended
+2024-02-02 18:54:36.684 [pool-2-thread-1] INFO  com.sl.pp.service.XmlService - InsertProcess::XmlService Started
+2024-02-02 18:54:36.702 [pool-2-thread-1] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.getXMLFiles() :: total xml files present 7
+2024-02-02 18:54:36.722 [pool-9-thread-1] ERROR com.sl.pp.AppMain - DbConfig.getDBConnection() SqlException java.sql.SQLException: The url cannot be null
+2024-02-02 18:54:36.722 [pool-9-thread-2] ERROR com.sl.pp.AppMain - DbConfig.getDBConnection() SqlException java.sql.SQLException: The url cannot be null
+2024-02-02 18:54:36.723 [pool-9-thread-5] ERROR com.sl.pp.AppMain - DbConfig.getDBConnection() SqlException java.sql.SQLException: The url cannot be null
+2024-02-02 18:54:36.722 [pool-9-thread-3] ERROR com.sl.pp.AppMain - DbConfig.getDBConnection() SqlException java.sql.SQLException: The url cannot be null
+2024-02-02 18:54:36.723 [pool-9-thread-4] ERROR com.sl.pp.AppMain - DbConfig.getDBConnection() SqlException java.sql.SQLException: The url cannot be null
+2024-02-02 18:54:36.735 [pool-9-thread-1] ERROR com.sl.pp.AppMain - DbConfig.getDBConnection() SqlException java.sql.SQLException: The url cannot be null
+2024-02-02 18:54:36.735 [pool-9-thread-2] ERROR com.sl.pp.AppMain - DbConfig.getDBConnection() SqlException java.sql.SQLException: The url cannot be null
+2024-02-02 18:54:36.736 [pool-2-thread-1] ERROR com.sl.pp.service.XmlService - XmlService.insertProcess()  ::: exception while callable thread call java.util.concurrent.ExecutionException: java.lang.NullPointerException: Cannot invoke "java.sql.Connection.prepareStatement(String)" because "connection" is null
+2024-02-02 18:54:36.736 [pool-2-thread-1] INFO  com.sl.pp.service.XmlService - InsertProcess::XmlService Ended
+2024-02-02 18:54:36.736 [pool-2-thread-1] INFO  com.sl.pp.service.XmlService - UpdateProcess::XmlService Started
+2024-02-02 18:54:36.751 [pool-2-thread-1] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.getXMLFiles() :: total xml files present 9
+2024-02-02 18:54:37.401 [pool-10-thread-3] ERROR com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder() IOException :: java.nio.file.NoSuchFileException: D:\Project\ClientProject\riyadi\newfiles\response\VDCCBMAVRES28112023133633118.xml\VDCCBMAVRES28112023133633118.xml
+2024-02-02 18:54:37.466 [pool-10-thread-4] ERROR com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder() IOException :: java.nio.file.NoSuchFileException: D:\Project\ClientProject\riyadi\newfiles\response\VDCCBMAVRES28112023135346724.xml\VDCCBMAVRES28112023135346724.xml
+2024-02-02 18:54:37.558 [pool-10-thread-1] ERROR com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder() IOException :: java.nio.file.NoSuchFileException: D:\Project\ClientProject\riyadi\newfiles\response\VDCCBMAVRES07122023145951010.xml\VDCCBMAVRES07122023145951010.xml
+2024-02-02 18:54:37.686 [pool-10-thread-2] ERROR com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder() IOException :: java.nio.file.NoSuchFileException: D:\Project\ClientProject\riyadi\newfiles\response\VDCCBMAVRES28112023133608736.xml\VDCCBMAVRES28112023133608736.xml
+2024-02-02 18:54:38.052 [pool-10-thread-3] ERROR com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder() IOException :: java.nio.file.NoSuchFileException: D:\Project\ClientProject\riyadi\newfiles\response\VDCCBMAVRES29112023050019214.xml\VDCCBMAVRES29112023050019214.xml
+2024-02-02 18:54:38.178 [pool-10-thread-1] ERROR com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder() IOException :: java.nio.file.NoSuchFileException: D:\Project\ClientProject\riyadi\newfiles\response\VDCCBMAVRES29112023050038279.xml\VDCCBMAVRES29112023050038279.xml
+2024-02-02 18:54:38.283 [pool-10-thread-4] ERROR com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder() IOException :: java.nio.file.NoSuchFileException: D:\Project\ClientProject\riyadi\newfiles\response\VDCCBMAVRES29112023050026010.xml\VDCCBMAVRES29112023050026010.xml
+2024-02-02 18:54:38.531 [pool-10-thread-2] ERROR com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder() IOException :: java.nio.file.NoSuchFileException: D:\Project\ClientProject\riyadi\newfiles\response\VDCCBMAVRES30112023050022257.xml\VDCCBMAVRES30112023050022257.xml
+2024-02-02 18:54:38.561 [pool-10-thread-5] ERROR com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder() IOException :: java.nio.file.NoSuchFileException: D:\Project\ClientProject\riyadi\newfiles\response\VDCCBMAVRES29112023045957975.xml\VDCCBMAVRES29112023045957975.xml
+2024-02-02 18:54:38.562 [pool-2-thread-1] INFO  com.sl.pp.service.XmlService - XmlService.updateProcess() :: file executed true
+2024-02-02 18:54:38.562 [pool-2-thread-1] INFO  com.sl.pp.service.XmlService - XmlService.updateProcess() :: file executed true
+2024-02-02 18:54:38.562 [pool-2-thread-1] INFO  com.sl.pp.service.XmlService - XmlService.updateProcess() :: file executed true
+2024-02-02 18:54:38.562 [pool-2-thread-1] INFO  com.sl.pp.service.XmlService - XmlService.updateProcess() :: file executed true
+2024-02-02 18:54:38.562 [pool-2-thread-1] INFO  com.sl.pp.service.XmlService - XmlService.updateProcess() :: file executed true
+2024-02-02 18:54:38.562 [pool-2-thread-1] INFO  com.sl.pp.service.XmlService - XmlService.updateProcess() :: file executed true
+2024-02-02 18:54:38.562 [pool-2-thread-1] INFO  com.sl.pp.service.XmlService - XmlService.updateProcess() :: file executed true
+2024-02-02 18:54:38.563 [pool-2-thread-1] INFO  com.sl.pp.service.XmlService - XmlService.updateProcess() :: file executed true
+2024-02-02 18:54:38.563 [pool-2-thread-1] INFO  com.sl.pp.service.XmlService - XmlService.updateProcess() :: file executed true
+2024-02-02 18:54:38.563 [pool-2-thread-1] INFO  com.sl.pp.service.XmlService - UpdateProcess::XmlService Ended
+2024-02-02 18:55:43.575 [main] INFO  com.sl.pp.AppMain - AppMain.main() :: Execution Started 
+2024-02-02 18:55:43.582 [pool-2-thread-1] INFO  com.sl.pp.service.XmlService - InsertProcess::XmlService Started
+2024-02-02 18:55:43.594 [pool-2-thread-1] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.getXMLFiles() :: total xml files present 7
+2024-02-02 18:55:44.481 [pool-3-thread-2] ERROR com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder() IOException :: java.nio.file.NoSuchFileException: D:\Project\ClientProject\riyadi\newfiles\request\094CBMAVREQ0301202422.xml\094CBMAVREQ0301202422.xml
+2024-02-02 18:55:44.516 [pool-3-thread-4] ERROR com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder() IOException :: java.nio.file.NoSuchFileException: D:\Project\ClientProject\riyadi\newfiles\request\VDCCBMAVREQ010120241.xml\VDCCBMAVREQ010120241.xml
+2024-02-02 18:55:44.580 [pool-3-thread-3] ERROR com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder() IOException :: java.nio.file.NoSuchFileException: D:\Project\ClientProject\riyadi\newfiles\request\SKDCBMAVREQ221220231.xml\SKDCBMAVREQ221220231.xml
+2024-02-02 18:55:44.649 [pool-3-thread-5] ERROR com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder() IOException :: java.nio.file.NoSuchFileException: D:\Project\ClientProject\riyadi\newfiles\request\VDCCBMAVREQ010120242.xml\VDCCBMAVREQ010120242.xml
+2024-02-02 18:55:44.750 [pool-3-thread-1] ERROR com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder() IOException :: java.nio.file.NoSuchFileException: D:\Project\ClientProject\riyadi\newfiles\request\061CBMAVREQ011220231.xml\061CBMAVREQ011220231.xml
+2024-02-02 18:55:45.003 [pool-3-thread-2] ERROR com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder() IOException :: java.nio.file.NoSuchFileException: D:\Project\ClientProject\riyadi\newfiles\request\VDCCBMAVREQ011220231.xml\VDCCBMAVREQ011220231.xml
+2024-02-02 18:55:45.077 [pool-3-thread-4] ERROR com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder() IOException :: java.nio.file.NoSuchFileException: D:\Project\ClientProject\riyadi\newfiles\request\VDCCBMAVREQ011220232.xml\VDCCBMAVREQ011220232.xml
+2024-02-02 18:55:45.078 [pool-2-thread-1] INFO  com.sl.pp.service.XmlService - XmlService.insertProcess() :: file executed true
+2024-02-02 18:55:45.078 [pool-2-thread-1] INFO  com.sl.pp.service.XmlService - XmlService.insertProcess() :: file executed true
+2024-02-02 18:55:45.078 [pool-2-thread-1] INFO  com.sl.pp.service.XmlService - XmlService.insertProcess() :: file executed true
+2024-02-02 18:55:45.078 [pool-2-thread-1] INFO  com.sl.pp.service.XmlService - XmlService.insertProcess() :: file executed true
+2024-02-02 18:55:45.078 [pool-2-thread-1] INFO  com.sl.pp.service.XmlService - XmlService.insertProcess() :: file executed true
+2024-02-02 18:55:45.079 [pool-2-thread-1] INFO  com.sl.pp.service.XmlService - XmlService.insertProcess() :: file executed true
+2024-02-02 18:55:45.079 [pool-2-thread-1] INFO  com.sl.pp.service.XmlService - XmlService.insertProcess() :: file executed true
+2024-02-02 18:55:45.079 [pool-2-thread-1] INFO  com.sl.pp.service.XmlService - InsertProcess::XmlService Ended
+2024-02-02 18:55:45.079 [pool-2-thread-1] INFO  com.sl.pp.service.XmlService - UpdateProcess::XmlService Started
+2024-02-02 18:55:45.095 [pool-2-thread-1] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.getXMLFiles() :: total xml files present 9
+2024-02-02 18:55:45.798 [pool-4-thread-3] ERROR com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder() IOException :: java.nio.file.NoSuchFileException: D:\Project\ClientProject\riyadi\newfiles\response\VDCCBMAVRES28112023133633118.xml\VDCCBMAVRES28112023133633118.xml
+2024-02-02 18:55:45.867 [pool-4-thread-1] ERROR com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder() IOException :: java.nio.file.NoSuchFileException: D:\Project\ClientProject\riyadi\newfiles\response\VDCCBMAVRES07122023145951010.xml\VDCCBMAVRES07122023145951010.xml
+2024-02-02 18:55:46.005 [pool-4-thread-4] ERROR com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder() IOException :: java.nio.file.NoSuchFileException: D:\Project\ClientProject\riyadi\newfiles\response\VDCCBMAVRES28112023135346724.xml\VDCCBMAVRES28112023135346724.xml
+2024-02-02 18:55:46.211 [pool-4-thread-2] ERROR com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder() IOException :: java.nio.file.NoSuchFileException: D:\Project\ClientProject\riyadi\newfiles\response\VDCCBMAVRES28112023133608736.xml\VDCCBMAVRES28112023133608736.xml
+2024-02-02 18:55:46.454 [pool-4-thread-3] ERROR com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder() IOException :: java.nio.file.NoSuchFileException: D:\Project\ClientProject\riyadi\newfiles\response\VDCCBMAVRES29112023050019214.xml\VDCCBMAVRES29112023050019214.xml
+2024-02-02 18:55:46.513 [pool-4-thread-4] ERROR com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder() IOException :: java.nio.file.NoSuchFileException: D:\Project\ClientProject\riyadi\newfiles\response\VDCCBMAVRES29112023050038279.xml\VDCCBMAVRES29112023050038279.xml
+2024-02-02 18:55:46.598 [pool-4-thread-1] ERROR com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder() IOException :: java.nio.file.NoSuchFileException: D:\Project\ClientProject\riyadi\newfiles\response\VDCCBMAVRES29112023050026010.xml\VDCCBMAVRES29112023050026010.xml
+2024-02-02 18:55:46.890 [pool-4-thread-2] ERROR com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder() IOException :: java.nio.file.NoSuchFileException: D:\Project\ClientProject\riyadi\newfiles\response\VDCCBMAVRES30112023050022257.xml\VDCCBMAVRES30112023050022257.xml
+2024-02-02 18:55:46.993 [pool-4-thread-5] ERROR com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.moveXmlFileToSuccessFailedFolder() IOException :: java.nio.file.NoSuchFileException: D:\Project\ClientProject\riyadi\newfiles\response\VDCCBMAVRES29112023045957975.xml\VDCCBMAVRES29112023045957975.xml
+2024-02-02 18:55:46.994 [pool-2-thread-1] INFO  com.sl.pp.service.XmlService - XmlService.updateProcess() :: file executed true
+2024-02-02 18:55:46.994 [pool-2-thread-1] INFO  com.sl.pp.service.XmlService - XmlService.updateProcess() :: file executed true
+2024-02-02 18:55:46.994 [pool-2-thread-1] INFO  com.sl.pp.service.XmlService - XmlService.updateProcess() :: file executed true
+2024-02-02 18:55:46.994 [pool-2-thread-1] INFO  com.sl.pp.service.XmlService - XmlService.updateProcess() :: file executed true
+2024-02-02 18:55:46.995 [pool-2-thread-1] INFO  com.sl.pp.service.XmlService - XmlService.updateProcess() :: file executed true
+2024-02-02 18:55:46.995 [pool-2-thread-1] INFO  com.sl.pp.service.XmlService - XmlService.updateProcess() :: file executed true
+2024-02-02 18:55:46.995 [pool-2-thread-1] INFO  com.sl.pp.service.XmlService - XmlService.updateProcess() :: file executed true
+2024-02-02 18:55:46.995 [pool-2-thread-1] INFO  com.sl.pp.service.XmlService - XmlService.updateProcess() :: file executed true
+2024-02-02 18:55:46.995 [pool-2-thread-1] INFO  com.sl.pp.service.XmlService - XmlService.updateProcess() :: file executed true
+2024-02-02 18:55:46.996 [pool-2-thread-1] INFO  com.sl.pp.service.XmlService - UpdateProcess::XmlService Ended
+2024-02-02 18:57:04.665 [main] INFO  com.sl.pp.AppMain - AppMain.main() :: Execution Started 
+2024-02-02 18:57:04.692 [pool-2-thread-1] INFO  com.sl.pp.service.XmlService - InsertProcess::XmlService Started
+2024-02-02 18:57:04.707 [pool-2-thread-1] INFO  com.sl.pp.service.XmlProcessingImpl - XmlProcessingImpl.getXMLFiles() :: total xml files present 7
+2024-02-02 21:15:14.419 [main] INFO  com.sl.pp.AppMain - AppMain.main() :: Execution Started 
+2024-02-02 21:15:14.431 [pool-2-thread-1] INFO  com.sl.pp.service.XmlService - InsertProcess::XmlService Started
